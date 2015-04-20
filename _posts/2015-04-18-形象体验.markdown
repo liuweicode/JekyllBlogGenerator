@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2015-04-18
+img: vidxingxiangtiyan.png
+alt: VID 形象体验
+project-date: April 2015
+client: iphone4
+category: App Development
+description: <a href="https://itunes.apple.com/cn/app/vid-xing-xiang-ti-yanhd/id784454116?mt=8"><img src="img/available_on_the_app_store.png" alt="Available on the app store"/></a>
+
+---

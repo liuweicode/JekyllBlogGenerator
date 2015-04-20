@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2015-04-18
+img: Dalitekzhinengjiaju.png
+alt: Dalitek智能家居
+project-date: April 2015
+client: iphone4
+category: App Development
+description: 
+
+---

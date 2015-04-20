@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2015-04-18
+img: mingdiandaijia.png
+alt: 名典代价
+project-date: April 2015
+client: iphone4
+category: App Development
+description: 
+
+---
