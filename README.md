@@ -1,3 +1,11 @@
+# liuweicode.github.io
+
+http://liuwei.co
+
+jekyll serve
+
+-----
+
 Freelancer Jekyll theme
 =========================
 
@@ -30,4 +38,4 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
-# liuweicode.github.io
+
